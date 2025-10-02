@@ -1,8 +1,6 @@
 # Wagtail
 
-<p align="center">
-    join us for ✨ <a href="https://wagtail.org/wagtail-space-2025/">Wagtail Space 2025</a> ✨, our free online conference on October 8-10
-</p>
+👉️ Join us for ✨ <a href="https://wagtail.org/wagtail-space-2025/">Wagtail Space 2025</a> ✨, our free online conference on October 8-10
 
 Wagtail is an open source content management system built on Django, with a strong community and commercial support. It's focused on user experience, and offers precise control for designers and developers.
 
