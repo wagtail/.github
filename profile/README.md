@@ -1,6 +1,6 @@
 # Wagtail
 
-Wagtail is an open source content management system built on Django, with a strong community and commercial support. It's focused on user experience, and offers precise control for designers and developers. :sparkle: View the [official Wagtail public roadmap](https://wagtail.org/roadmap/).
+Wagtail is an open source content management system built on Django, with a strong community and commercial support. It's focused on user experience, and offers precise control for designers and developers. For more info, view [our roadmap](https://wagtail.org/roadmap/).
 
 ## Learn more
 
