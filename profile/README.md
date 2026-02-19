@@ -7,3 +7,5 @@ Wagtail is an open source content management system built on Django, with a stro
 * [wagtail.org](https://wagtail.org/) is our main site.
 * [docs.wagtail.org](https://docs.wagtail.org/en/stable/) for developers documentation.
 * [guide.wagtail.org](https://guide.wagtail.org/) for CMS users documentation.
+
+🏆 Wagtail is nominated for [TWO awards on CMS Critic](https://wagtail.org/blog/wagtail-nominated-for-two-cms-critic-awards/)! Please [go vote now](https://cmscritic.com/vote)! 🏆
