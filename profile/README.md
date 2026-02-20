@@ -20,7 +20,6 @@ Wagtail is an open source content management system built on Django, with a stro
   <a href="https://www.youtube.com/@wagtailcms">YouTube</a>
   <span> | </span>
   <a href="https://wagtail.org/newsletter/">Newsletter</a>
-  <span> | </span>
 </div>
 
 ---
