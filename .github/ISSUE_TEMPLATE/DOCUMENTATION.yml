@@ -1,11 +1,11 @@
 name: 📚 Documentation
-description: Suggest edits for the Wagtail documentation
-labels: ['Documentation']
+description: Suggest edits for the documentation
+labels: ["Documentation"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping improve the Wagtail documentation!
+        Thanks for helping improve the documentation!
 
         Summarise the documentation change you're suggesting in the issue title above.
         If you're suggesting a very specific change to the documentation, feel free to directly submit a pull request.
@@ -21,9 +21,9 @@ body:
   - type: textarea
     id: docs-section
     attributes:
-      label: Pertinent section(s) of the Wagtail docs
+      label: Pertinent section(s) of the docs
       description: |
-        Insert the permalink of the section heading in the Wagtail docs. Choose the most specific section / lowest-level heading to which your suggested change would apply. (In the docs, hover over the heading to see the permalink icon.)
+        Insert the permalink of the section heading in the docs. Choose the most specific section / lowest-level heading to which your suggested change would apply. (In the docs, hover over the heading to see the permalink icon.)
       placeholder: |
         These sections about writing page templates are relevant:
 

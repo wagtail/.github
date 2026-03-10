@@ -1,11 +1,11 @@
 name: 🚀 Feature/enhancement request
-description: Suggest an idea for improving Wagtail
-labels: ['type:Enhancement']
+description: Suggest an idea for improvement
+labels: ["enhancement"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to suggest an improvement to Wagtail!
+        Thanks for taking the time to suggest an improvement to this project!
 
   - type: textarea
     id: problem
