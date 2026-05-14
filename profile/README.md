@@ -22,4 +22,10 @@ Wagtail is an open source content management system built on Django, with a stro
   <a href="https://wagtail.org/newsletter/">Newsletter</a>
 </div>
 
+---
+
+<div align="center">
+
 📣 check out our upcoming [What’s New in Wagtail webinar](https://wagtail.org/blog/whats-new-in-wagtail-may-2026/) on May 19th and 20th 📣
+
+</div>
